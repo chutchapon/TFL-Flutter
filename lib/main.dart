@@ -1,4 +1,4 @@
-import 'package:chut_tflit/TFliteHome.dart';
+import 'package:tflite_flutter/TFliteHome.dart';
 import 'package:flutter/material.dart';
 
 void main() {
